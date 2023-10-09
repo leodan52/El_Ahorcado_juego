@@ -1,0 +1,9 @@
+# Archivos para desarrollo
+pruebas.ipynb
+diseño_bomba.txt
+
+# Config de IDE
+.vscode/
+
+# Cache de Python
+__pycache__
